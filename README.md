@@ -47,3 +47,7 @@ pnpm tauri build
 ```
 sudo xattr -r -d com.apple.quarantine /Applications/qiLaunch.app
 ```
+
+# 🔗下载
+
+下载 https://github.com/CrankZ/qi-launch/releases
